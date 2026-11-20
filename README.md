@@ -49,8 +49,9 @@ Además, la plataforma permitirá organizar desplazamientos compartidos en coche
 ## Tecnologías
 
 - Base de datos: Microsoft SQL Server.
-- Backend: Por determinar.
-- Frontend: Por determinar.
+- Backend: C#.
+- Frontend: Angular.
+- Despliegue: Docker,
 - Documentación: Markdown.
 
 ## Base de datos
